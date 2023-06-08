@@ -15,10 +15,10 @@ iphone_ip_address = '192.168.1.3'
 
 # Replace with your actual credentials and device ID
 ENDPOINT = 'https://openapi.tuyaeu.com'
-ACCESS_ID = 'anmthpjcekt8nexypsg4'
-ACCESS_KEY = 'bbe553581af24027846b57da644b1673'
-USERNAME = 'www.dragon-fire@hotmail.com'
-PASSWORD = 'Kostas98'
+ACCESS_ID = 'project_access_key'
+ACCESS_KEY = 'your_projects_secret_key'
+USERNAME = 'your_email.com'
+PASSWORD = 'smartlife_app_password'
 DEVICE_ID = 'bfddab7eb87093f958andt'
 
 # Initialize TuyaOpenAPI
